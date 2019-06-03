@@ -28,11 +28,11 @@ import com.twitter.hbc.httpclient.auth.OAuth1;
 
 public class TwitterProducer {
 
-	String consumerKey = "YP0bMTJFhFzArR7p2eJyUuSYS";
-	String consumerSecret = "Z3Dc3ZVxmi5O8eXje3lgVUzKPxDLj2NStQYIkuhDZ1Qh6yrqhG";
-	String token = "3124952755-pIIEAvPcDwudQY7r9SEg2liSrHUnv903WKgPnBY";
-	String secret = "372VoT2sQWc9EuL4TNCfjSBcu1j1g1jEE9ThhI2sIzJ8u";
-	List<String> terms = Lists.newArrayList("india","modi");
+	String consumerKey = "";
+	String consumerSecret = "";
+	String token = "";
+	String secret = "";
+	List<String> terms = Lists.newArrayList("UCL","CWC");
 
 	public TwitterProducer() {
 	};
